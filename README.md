@@ -10,6 +10,6 @@ This repository contains the all the necessary codes along with the final report
 - `summary_ppt.ppsx:` Presentation of the report.
     
 ### Project Description
-2023 is going be an exciting year for all the cricket fan as we known two big ICC events is going to happen. So before _World test championship final_ and _World Cup 2023_ I would like to analysis the performance of 5 top order batsman of India and Australia. \
+2023 is going be an exciting year for all the cricket fan as we known two big ICC events is going to happen. So before _World test championship final_ and _World Cup 2023_ I would like to analysis the performance of 5 top order batsman of India and Australia.
 
 Considering the data as censored a in depth analysis is describe here. The corresponding files contain all the essential details pertaining to the analysis.
