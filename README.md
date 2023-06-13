@@ -6,5 +6,6 @@ This repository contains the all the necessary codes along with the final report
 
 ### File Description:      
 - `R codes:` Contains the R codes required for the analysis. 
-- `project_reports.pdf:` The Final Report of the analysis.
+- `project_report.pdf:` The Final Report of the analysis.
+- `summary_ppt.ppsx:` Presentation of the report.
     
